@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DTCHome</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name_project">Đỗ Thế Cần</string>
+    <string name="app_title">Điều khiển hệ thống ánh sáng</string>
+    <string name="lamp_living">Đèn ngoài trời</string>
+    <string name="setting_phone_number_hint">+84xxxyyyzzz</string>
+	<string name="save">Lưu</string>
+	<string name="action_sign_in">Lưu</string>
+	<string name="lamp">Đèn ngoài trời</string>
+	<string name="is_turned_on">đã bật</string>
+    <string name="is_turned_off">đã tắt</string>
+    <string name="SmsSendError">Không thể gửi tín hiệu điều khiển, vui lòng kiểm tra tài khoản</string>
+</resources>
